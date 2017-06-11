@@ -1,0 +1,14 @@
+Diseño que se ajusta al tamaño de la pantalla:bootstrap
+http://getbootstrap.com/getting-started/#download
+1 clase de php. Usar herencia.
+1 clase de tapescrip. Usar herencia.
+2 Entregar en la web.
+3Hay problemas que en la pc pasa y en la web no pasa.
+https://www.slimframework.com/docs/cookbook/enable-cors.html
+
+https://github.com/valor-software/ng2-file-upload
+
+npm i ng2-file-upload --save
+ng2-file-upload/demo/src/app/components/file-upload/simple-demo.html
+
+http://valor-software.com/ng2-file-upload/
