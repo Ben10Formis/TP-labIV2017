@@ -1,3 +1,16 @@
-<h1>
+<!--<h1>
   {{title}}
 </h1>
+<form>
+	<label> ¿Cómo te llamas? </label>
+	<input type="text" [(ngModel)]="aprendiz" [ngModelOptions]="{standalone: true}" />
+	<p> Bienvenido {{aprendiz}} </p>
+
+	<p>Soy capaz de multiplicar por {{1*2}} mis habilidades </p>
+
+	<button (click)="visible=true" > Saludar </button>
+	<p [hidden]="!visible" > Hola Mundo!!! 
+	   <button (click)="decirAdios()" > Adios </button>
+	</p>
+</form>-->
+<router-outlet></router-outlet>
